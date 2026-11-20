@@ -1,4 +1,4 @@
-# Technomotion 2: Preview Audio Fix
+# Preview Audio Fix for TechnoMotion: The 2nd Dance Floor
 
 A small binary patch for **Technomotion 2** (`TECHMO.exe`). It fixes the crackly, distorted song preview audio on the music select screen on modern Windows.
 
